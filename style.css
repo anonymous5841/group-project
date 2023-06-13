@@ -3,7 +3,7 @@
     justify-content: space-between;
     background-color: rgb(19, 19, 37);
     height: 70px;
-    width:1444px;
+    width: 1457px;
 }
 
 .nlinks {
@@ -53,7 +53,7 @@
 .nimg_main
 {
     position: absolute;
-    width:1444px;
+    width: 1457px;
     height:360px ;
 }
 
@@ -158,15 +158,15 @@
 .nstudent
 {
     position: absolute;
-    width:1444px;
+    width: 1457px;
     margin-top: 100px;
 }
 
 .ndiscount
 {
     position: relative;
-    height: 384px;
-    width:1184px;
+    height: 389px;
+    width:1196px;
     margin-top: 100px;
     padding-top: 120px;
     padding-left: 260px;
@@ -583,5 +583,5 @@
 
     background-color: rgb(30, 30, 66);
     margin-top: 350px;
-    width:1444px;
+    width: 1457px;
 }
